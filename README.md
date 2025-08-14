@@ -35,23 +35,6 @@
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-  <img src="images/midbanner.png" alt="DevOps Banner" width="800px" style="border-radius:15px;>
-</div>
-
-
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/muhammad-bilal-siddiqui-1551391b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-bilal-siddiqui-1551391b8" height="50" width="60" /></a>
-<a href="https://stackoverflow.com/users/20290278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20290278" height="50" width="60" /></a>
-<a href="https://instagram.com/bilalsiddiqui0111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bilalsiddiqui0111" height="50" width="60" /></a>
-
-</div>
 
 
 ## ⚡ Tech Stack
@@ -70,13 +53,17 @@
 
 </div>
 
-## 🌐 DevOps Learning Hub
-
-> [!IMPORTANT]
->
-> Empowering DevOps & Cloud Learners — One Resource at a Time
-
-
-<div align="center">
-  <img src="images/footerbanner.png" alt="Footer Banner" width="800px" style="border-radius:15px;">
+## 🤝 Connect With Me
+<br>
+<div align="center" style="margin-bottom:20px;">
+  <a href="https://linkedin.com/in/muhammad-bilal-siddiqui-1551391b8" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" />
+  </a>
+  <a href="https://stackoverflow.com/users/20290278" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="50" width="60" />
+  </a>
+  <a href="https://instagram.com/bilalsiddiqui0111" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="60" />
+  </a>
 </div>
+
