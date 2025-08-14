@@ -5,7 +5,7 @@
     Senior DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD
   </span>
   <br><br>
-  <img src="image/top.png" alt="aboutme" width="800px">
+  <img src="topbanner.png" alt="aboutme" width="800px">
 </div>
 
 
@@ -38,7 +38,7 @@
 <br>
 
 <div align="center">
-  <img src="image/mid.png" alt="DevOps Banner" width="800px">
+  <img src="image/midbanner.png" alt="DevOps Banner" width="800px">
 </div>
 
 
@@ -79,5 +79,5 @@
 ---
 
 <div align="center">
-  <img src="images/footer.png" alt="Footer Banner" width="800px">
+  <img src="images/footerbanner.png" alt="Footer Banner" width="800px">
 </div>
