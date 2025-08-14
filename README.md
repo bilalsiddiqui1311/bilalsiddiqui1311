@@ -47,10 +47,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalsiddiqui1311&show_icons=true&locale=en&layout=compact" alt="bilalsiddiqui1311" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalsiddiqui1311&show_icons=true&locale=en" alt="bilalsiddiqui1311" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsiddiqui1311&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilalsiddiqui1311&theme=tokyonight" alt="GitHub Profile Summary"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bilalsiddiqui1311&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
 </div>
 
 ## 🤝 Connect With Me
