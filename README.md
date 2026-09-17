@@ -1,71 +1,89 @@
-# <div align="center">🚀 **Bilal Siddiqui**</div>
-
-<div align="center" style="background-color:black; padding:10px;">
-  <span style="color:white; font-weight:bold; font-size:18px;">
-    Senior DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD
-  </span>
-  <br><br>
-  <img src="images/topbanner.png" alt="aboutme" width="800px">
+<div align="center">
+  <h1>Bilal Siddiqui</h1>
+  <p><strong>Senior DevOps Engineer · Cloud · Automation · Kubernetes · AI Tooling</strong></p>
+  <img src="images/topbanner.png" alt="Bilal Siddiqui DevOps banner" width="900">
 </div>
 
+<p align="center">
+  I build reliable platforms, automate delivery, and explore practical ways to bring AI into developer workflows.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-bilal-siddiqui-1551391b8"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+  <a href="https://stackoverflow.com/users/20290278"><img src="https://img.shields.io/badge/Stack%20Overflow-Ask%20or%20Answer-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+</p>
+
+## About Me
+
+| Focus | What I work on |
+| --- | --- |
+| Cloud platforms | Scalable AWS and Azure infrastructure, networking, and platform operations |
+| Delivery automation | CI/CD pipelines, GitOps, release workflows, and Infrastructure as Code |
+| Containers | Docker, Kubernetes, Helm, and production-ready workload operations |
+| Engineering enablement | Observability, developer experience, technical writing, and open source |
+
+## Skills & Tools
+
+### Cloud, Platform & Automation
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+
+### Development & Observability
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111)
+
+### AI Engineering Toolkit
+
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-5B5BD6?style=flat-square&logo=alibabacloud&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-2F6FED?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0B7285?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-Search%20%26%20Embeddings-6C5CE7?style=flat-square)
+
+I am especially interested in local models, model-assisted DevOps, retrieval pipelines, agentic workflows, and connecting developer tools through MCP.
+
+## Current Focus
+
+```text
+Reliable platforms  |  Developer experience  |  AI-assisted operations
+Cloud cost awareness |  Secure automation    |  Useful open source
+```
+
+## GitHub Activity
 
 <div align="center">
-  <p><strong>Hey there!</strong> 👋 I'm a passionate DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently.</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalsiddiqui1311&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub statistics" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsiddiqui1311&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="170">
 </div>
-
-<br>
-
-## 💫 About Me
-
-<table>
-<tr>
-
-### What I Do
-- 🌩️ **Cloud & DevOps Specialist**
-  - Architecting scalable infrastructures
-  - AWS, Azure, Kubernetes expert
-- 🤖 **Automation Enthusiast**
-  - CI/CD pipelines
-  - Infrastructure as Code (IaC)
-- 📝 **Content Creator**
-  - Technical blogs
-  - DevOps tutorials
-  - Open-source projects
-
-</tr>
-</table>
-
-
-
-## ⚡ Tech Stack
 
 <div align="center">
-
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilalsiddiqui1311&theme=transparent" alt="GitHub profile summary">
 </div>
 
-## 📊 GitHub Stats
+## Connect
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsiddiqui1311&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilalsiddiqui1311&theme=tokyonight" alt="GitHub Profile Summary"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bilalsiddiqui1311&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
-</div>
-
-## 🤝 Connect With Me
-<br>
-<div align="center" style="margin-bottom:20px;">
-  <a href="https://linkedin.com/in/muhammad-bilal-siddiqui-1551391b8" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" />
-  </a>
-  <a href="https://stackoverflow.com/users/20290278" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="50" width="60" />
-  </a>
-  <a href="https://instagram.com/bilalsiddiqui0111" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="60" />
-  </a>
-</div>
-
+<p>
+  Open to thoughtful conversations about DevOps, cloud platforms, automation, and practical AI engineering.
+  <br>
+  <a href="https://linkedin.com/in/muhammad-bilal-siddiqui-1551391b8">LinkedIn</a> ·
+  <a href="https://stackoverflow.com/users/20290278">Stack Overflow</a> ·
+  <a href="https://instagram.com/bilalsiddiqui0111">Instagram</a>
+</p>
